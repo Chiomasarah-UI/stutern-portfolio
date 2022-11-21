@@ -149,13 +149,19 @@ h1{
 }
 
 .firstdiv{
-    width: 40%;
-    padding: 0rem 6rem 0rem 6rem ;
+    width: 50%;
+    padding: 0rem 4rem 0rem 6rem ;
+    text-align: justify;
 }
 
 .seconddiv{
-    width: 60%;
+    width: 50%;
     padding: 0rem 6rem 0em 0rem ;
+    text-align: justify;
+}
+
+.seconddiv h1{
+    text-align: right;
 }
 
 p{
